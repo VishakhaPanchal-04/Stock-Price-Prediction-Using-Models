@@ -4,9 +4,9 @@ This repository contains a stock price prediction project that uses ARIMA and LS
 The objective is to analyze historical stock trends and patterns and compare traditional statistical methods with deep learning techniques for improved prediction accuracy.
 
 TECH STACK:
-Python
-Pandas
-NumPY
-ARIMA(statsmodels)
-LSTM(TensorFlow/Keras)
+Python,
+Pandas,
+NumPy,
+ARIMA(statsmodels),
+LSTM(TensorFlow/Keras),
 Matplotlib
